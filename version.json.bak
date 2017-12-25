@@ -4,6 +4,6 @@
     "VersionCode": 20,
     "ApkUrl": "https://update-1252142997.file.myqcloud.com/app_1.1.2.1.apk",
 	"UpdateLog": "1.新增领红包送会员活动，侧边栏点击领取\n2.新增去广告功能\n3.新增设置界面\n4.新增dns over http\n5.新增日志功能。",
-	"TargetSize": "5.91M",	
+	"TargetSize": "5.93M",	
     "IsForce": true
 }

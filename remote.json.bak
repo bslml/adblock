@@ -20,6 +20,16 @@
     "FileURL": "https://pperson.github.io/20171206/1512576457608.db"
 },
 {
+    "Name": "全国电信12月28日",
+    "Description": "优酷定向，酷视卡、鱼卡，陕西可用",
+    "Hint": "中国电信",
+    "IsDescypted": true,
+    "IsVipOnly": false,
+    "InnerName": "1512657341708.db",
+    "Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",
+    "FileURL": "https://pperson.github.io/20171207/1512657341708.db"
+   },
+{
 	"Name": "云南电信12月25日",
 	"Description": "云南电信- 爱奇艺定向",
 	"Hint": "会员专享",

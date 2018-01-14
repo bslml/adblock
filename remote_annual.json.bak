@@ -10,16 +10,6 @@
     "FileURL": "https://pperson.github.io/20171206/15125708.db"
 },
 {
-	"Name": "全国联通PLUS",
-	"Description": "山东、湖南、河南、江西、北京可用，网速爆炸",
-	"Hint": "会员专享",
-	"IsDescypted": true,
-	"IsVipOnly": true,
-	"InnerName": "1515285289183.db",
-	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-	"FileURL": "https://pperson.github.io/20180107/1515285289183.db"
-},
-{
     "Name": "全国联通",
     "Description": "限速，全国绝大部分省份可免",
     "Hint": "联通必免",
@@ -30,15 +20,136 @@
     "FileURL": "https://pperson.github.io/20171206/1512576457608.db"
 },
 {
-	"Name": "中国移动",
-	"Description": "专治各种重灾区，限时免费",
-	"Hint": "免费体验",
+	"Name": "河北联通20180114",
+	"Description": "wap接入，河北联通0跳超神模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1515899313420.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://pperson.github.io/20180114/1515899313420.db"
+},
+{
+	"Name": "山东联通20180112",
+	"Description": "山东联通全省可免，会员专享模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1515759208268.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759208268.db"
+},
+{
+	"Name": "重庆大王卡20180112",
+	"Description": "重庆大王卡可免，会员专享模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1515759209652.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759209652.db"
+},
+{
+	"Name": "北京联通20180112",
+	"Description": "wap接入，沃门户伪装",
+	"Hint": "限时免费",
 	"IsDescypted": true,
 	"IsVipOnly": false,
-	"InnerName": "1515258167453.db",
+	"InnerName": "1515759261258.db",
 	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
-	"FileURL": "https://pperson.github.io/20180106/1515258167453.db"
+	"FileURL": "https://pperson.github.io/20180112/1515759261258.db"
 },
+{
+	"Name": "河南联通20180112",
+	"Description": "net接入，掌中娱乐伪装",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515759262610.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759262610.db"
+},
+{
+	"Name": "四川电信20180112",
+	"Description": "天翼视讯伪装，德阳可用",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515759263645.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759263645.db"
+},
+{
+	"Name": "江苏电信20180112",
+	"Description": "天翼视讯伪装，徐州可用",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515759264949.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759264949.db"
+},
+{
+	"Name": "广东电信20180112",
+	"Description": "天翼视讯伪装，阳江可用",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515759267110.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759267110.db"
+},
+{
+	"Name": "江苏电信20180112",
+	"Description": "天翼视讯伪装",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515759268369.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759268369.db"
+},
+{
+	"Name": "浙江联通2018011201",
+	"Description": "wap接入,wo阅读伪装",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515759270796.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759270796.db"
+},
+{
+	"Name": "安徽电信20180112",
+	"Description": "天翼视讯伪装",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515759272004.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759272004.db"
+},
+{
+	"Name": "浙江联通2018011202",
+	"Description": "wap接入,wo阅读伪装",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515759273485.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515759273485.db"
+},
+{
+	"Name": "重庆联通20180112",
+	"Description": "wap接入,wo阅读伪装",
+	"Hint": "限时免费",
+	"IsDescypted": true,
+	"IsVipOnly": false,
+	"InnerName": "1515760049360.db",
+	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
+	"FileURL": "https://pperson.github.io/20180112/1515760049360.db"
+},
+
 {
         "Name": "湖南移动20180107",
         "Description": "wap接入，咪咕混淆\n怀化、衡阳、娄底等可用",
@@ -61,7 +172,7 @@
 },
 {
 	"Name": "中国移动20180107",
-	"Description": "北京、山西可用，限速",
+	"Description": "北京、福建、山西可用，限速",
 	"Hint": "北京移动",
 	"IsDescypted": true,
 	"IsVipOnly": false,
@@ -100,8 +211,8 @@
 	"FileURL": "https://pperson.github.io/20171207/1512657335103.db"
 },
 {
-	"Name": "陕西电信20180107",
-	"Description": "鱼卡，西安等可用",
+	"Name": "电信鱼卡20180107",
+	"Description": "鱼卡，河北、陕西可用",
 	"Hint": "陕西电信",
 	"IsDescypted": true,
 	"IsVipOnly": false,
@@ -138,16 +249,6 @@
 	"InnerName": "1512657340584.db",
 	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
 	"FileURL": "https://pperson.github.io/20171207/1512657340584.db"
-},
-{
-	"Name": "广东电信20180107",
-	"Description": "鱼卡模式，广州、深圳、汕头等可用",
-	"Hint": "中国电信",
-	"IsDescypted": true,
-	"IsVipOnly": false,
-	"InnerName": "1512657341708.db",
-	"Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",	
-	"FileURL": "https://pperson.github.io/20171207/1512657341708.db"
 },
 {
 	"Name": "江苏电信20180107",
@@ -250,18 +351,8 @@
 	"FileURL": "https://pperson.github.io/20171225/1514168559440.db"
 },
 {
-	"Name": "山东移动12月25日",
-	"Description": "山东移动",
-	"Hint": "会员专享",
-	"IsDescypted": true,
-	"IsVipOnly": true,
-	"InnerName": "1514168560482.db",
-	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-	"FileURL": "https://pperson.github.io/20171225/1514168560482.db"
-},
-{
 	"Name": "山东联通12月25日",
-	"Description": "山东联通圣子模式",
+	"Description": "山东联通圣子模式，济南可用",
 	"Hint": "会员专享",
 	"IsDescypted": true,
 	"IsVipOnly": true,

@@ -14,11 +14,12 @@
        j.async = true;
 
        e.parentNode.insertBefore(j, e);
+	   document.getElementById("header").style.display="none";
+	   document.getElementById("sidebar").style.display="none";
+	   document.getElementById("main").style.width = "100%";
    })(document, 'script');
    
-   document.getElementById("header").style.display="none";
-   document.getElementById("sidebar").style.display="none";
-   document.getElementById("main").style.width = "100%";
+
 "100%
 	</script>
 <noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>

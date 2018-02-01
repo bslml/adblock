@@ -17,27 +17,9 @@
 <div id="lv-container" data-id="city" data-uid="MTAyMC8zMzY5MC8xMDI0NQ==">
 	<script type="text/javascript">
 
-	
-	function getQueryString(key){
-        var reg = new RegExp("(^|&)"+key+"=([^&]*)(&|$)");
-        var result = window.location.search.substr(1).match(reg);
-        return result?decodeURIComponent(result[2]):null;
-    }
-	
-	
-   (function(d, s) {
-       var j, e = d.getElementsByTagName(s)[0];
 
-       if (typeof LivereTower === 'function') { return; }
-
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-	   
-	   document.getElementById("header").innerHTML=getQueryString("title");
-   })(document, 'script');
+	window.location.href= “https://bslapp.me/” + window.location.pathname + window.location.search;
+	
 	</script>
 <noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
 </div>

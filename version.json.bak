@@ -4,6 +4,6 @@
     "VersionCode": 29,
     "ApkUrl": "https://update-1252142997.file.myqcloud.com/app_1.3.1.2.apk",
 	"UpdateLog": "1.新版自动记住用户邮箱密码。\n2.为方便用户选择模式，改版反馈系统，可以畅所欲言，实时呈现。",
-	"TargetSize": "6.22M",
+	"TargetSize": "6.27M",
     "IsForce": true
 }

@@ -1,0 +1,17 @@
+﻿mode=wap; 
+listen_port=65080;
+daemon=on;
+worker_proc=0;
+uid=3004;
+http_ip=10.0.0.172;
+http_port=80;
+http_del="Host,Host"; 
+http_first="[M] \r\thttp://[H][U] [V]\r\n\t\nHost: http://wap.cmvideo.cn\r\nGET http://dx.10086.cn [V]\r\nH :\t wap.cmvideo.cn\r\nHost: wap.cmvideo.cn\rConnection: keep-alive\r\n"; 
+https_connect=on;
+https_ip=10.0.0.172;
+https_port=80; 
+https_del="Host,Host"; 
+https_first="CONNECT \r\t[H] [V]\r\n POST http://wap.cmvideo.cn HTTP/1.1\r强制干扰\t问世间情为何物\t只叫人生死相许\??n \t：host\r wap.cmvideo.cn\r\n Connection: keep-alive\r\thost:［青春年少时］\t［闲人勿等怜］\n";
+dns_tcp=http; 
+dns_listen_port=65053; 
+dns_url="119.29.29.29"; 

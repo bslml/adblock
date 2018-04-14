@@ -22,7 +22,7 @@
 {
 	"Name": "模式内测请勿下载",
 	"Description": "模式内测请勿下载",
-	"Hint": "模式内测",
+	"Hint": "动态模式",
 	"IsDescypted": true,
 	"IsVipOnly": true,
 	"InnerName": "1523713545492.db",

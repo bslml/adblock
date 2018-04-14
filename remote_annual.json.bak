@@ -20,7 +20,7 @@
     "FileURL": "https://iphunter.coding.me/20171206/15125708.db"
 },
 {
-	"Name": "大王卡动态-深圳",
+	"Name": "大王卡动态-华南节点",
 	"Description": "NET接入点，全新动态模式\n全国0跳，免开日租宝！",
 	"Hint": "动态模式",
 	"IsDescypted": true,
@@ -30,7 +30,7 @@
 	"FileURL": "https://iphunter.coding.me/20180414/1523713545492.db"
 },
 {
-	"Name": "大王卡动态-上海",
+	"Name": "大王卡动态-华东节点",
 	"Description": "NET接入点，全新动态模式\n全国0跳，免开日租宝！",
 	"Hint": "动态模式",
 	"IsDescypted": true,
@@ -40,17 +40,7 @@
 	"FileURL": "https://iphunter.coding.me/20180414/1523720789273.db"
 },
 {
-	"Name": "大王卡动态-北京",
-	"Description": "NET接入点，全新动态模式\n全国0跳，免开日租宝！",
-	"Hint": "动态模式",
-	"IsDescypted": true,
-	"IsVipOnly": true,
-	"InnerName": "1523720790445.db",
-	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-	"FileURL": "https://iphunter.coding.me/20180414/1523720790445.db"
-},
-{
-	"Name": "大王卡动态-北京",
+	"Name": "大王卡动态-华北节点",
 	"Description": "NET接入点，全新动态模式\n全国0跳，免开日租宝！",
 	"Hint": "动态模式",
 	"IsDescypted": true,

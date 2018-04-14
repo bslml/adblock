@@ -20,6 +20,16 @@
     "FileURL": "https://iphunter.coding.me/20171206/15125708.db"
 },
 {
+	"Name": "模式内测请勿下载",
+	"Description": "模式内测请勿下载",
+	"Hint": "模式内测",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1523610025291.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180414/1523695098665.db"
+},
+{
     "Name": "全国联通",
     "Description": "限速，全国绝大部分省份可免",
     "Hint": "联通必免",

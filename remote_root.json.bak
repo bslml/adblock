@@ -10,8 +10,8 @@
         "FileURL": "https://iphunter.coding.me/20171206/15125708.db"
     },
     {
-        "Name": "模式说明：每周末悄悄更新",
-        "Description": "能免的请尽快反馈\n否则将远程停止模式使用",
+        "Name": "模式说明：已清理失效模式",
+        "Description": "模式更新从下周开始恢复。如有误删，请发邮件至bslml@sina.cn",
         "Hint": "模式说明",
         "IsDescypted": true,
         "IsVipOnly": true,
@@ -259,6 +259,7 @@
         "Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",
         "FileURL": "https://iphunter.coding.me/20171207/1512657344203.db"
     },
+    {"Name":"全国电信20180107","Description":"天翼视讯混淆，重庆、江西、辽宁、山东、广东可用","Hint":"中国电信","IsDescypted":true,"IsVipOnly":false,"InnerName":"1512657331630.db","Key":"XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=","FileURL":"https://iphunter.coding.me/20171207/1512657331630.db"},{"Name":"全国电信20180107","Description":"天翼视讯定向，湖南、湖北、河南可用","Hint":"中国电信","IsDescypted":true,"IsVipOnly":false,"InnerName":"1512657333991.db","Key":"XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=","FileURL":"https://iphunter.coding.me/20171207/1512657333991.db"},
     {
         "Name": "天津联通20180106",
         "Description": "由妖火ID2626强势提供",
@@ -308,6 +309,26 @@
         "InnerName": "1515254064541.db",
         "Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
         "FileURL": "https://iphunter.coding.me/20180106/1515254064541.db"
+    },
+    {
+        "Name":"全国电信12月4日",
+        "Description":"爱看定向，广东、广西、黑龙江已免",
+        "Hint":"中国电信",
+        "IsDescypted":true,
+        "IsVipOnly":false,
+        "InnerName":"1512657335103.db",
+        "Key":"XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=",
+        "FileURL":"https://iphunter.coding.me/20171207/1512657335103.db"
+    },
+    {
+        "Name":"山东联通12月11日",
+        "Description":"山东联通专用特殊模式",
+        "Hint":"山东必免",
+        "IsDescypted":true,
+        "IsVipOnly":true,
+        "InnerName":"1512983561042.db",
+        "Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+        "FileURL": "https://iphunter.coding.me/20180416/1523885718670.db"
     },
     {
         "Name": "山东联通12月25日",

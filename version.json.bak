@@ -5,6 +5,5 @@
     "ApkUrl": "http://update-1252142997.file.myqcloud.com/app1410.apk",
 	"UpdateLog": "修复了一个导致部分设备动态模式不免的Bug",
 	"TargetSize": "6.31M",
-    "IsForce": true,
-    "Key": "5878B2299C5B61D0F82CF147258BB0D7"
+    "IsForce": true
 }

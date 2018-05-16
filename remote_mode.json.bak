@@ -19,36 +19,36 @@
         "Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=", 
         "FileURL": "https://iphunter.coding.me/20171206/15125708.db"
     }, 
-    {
-        "Name": "大王卡动态-华南节点", 
-        "Description": "NET接入点，全新动态模式全国0跳，免开日租宝！", 
-        "Hint": "动态模式", 
-        "IsDescypted": true, 
-        "IsVipOnly": true, 
-        "InnerName": "1523782676959.db", 
-        "Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=", 
-        "FileURL": "https://iphunter.coding.me/20180415/1523782676959.db"
-    }, 
-    {
-        "Name": "大王卡动态-华东节点", 
-        "Description": "NET接入点，全新动态模式全国0跳，免开日租宝！", 
-        "Hint": "动态模式", 
-        "IsDescypted": true, 
-        "IsVipOnly": true, 
-        "InnerName": "1523782674537.db", 
-        "Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=", 
-        "FileURL": "https://iphunter.coding.me/20180415/1523782674537.db"
-    }, 
-    {
-        "Name": "大王卡动态-华北节点", 
-        "Description": "NET接入点，全新动态模式全国0跳，免开日租宝！", 
-        "Hint": "动态模式", 
-        "IsDescypted": true, 
-        "IsVipOnly": true, 
-        "InnerName": "1523782675745.db", 
-        "Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=", 
-        "FileURL": "https://iphunter.coding.me/20180415/1523782675745.db"
-    }, 
+	{
+	"Name": "大王卡华东0516",
+	"Description": "NET接入点，全新动态模式全国0跳，免开日租宝！",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1526437785285.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180516/1526437785285.db"
+},
+{
+	"Name": "大王卡华北0516",
+	"Description": "NET接入点，全新动态模式全国0跳，免开日租宝！",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1526437786604.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180516/1526437786604.db"
+},
+{
+	"Name": "大王卡华南0516",
+	"Description": "NET接入点，全新动态模式全国0跳，免开日租宝！",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1526437787742.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180516/1526437787742.db"
+}, 
 	{
 		"Name": "工银e卡专用圣子模式",
 		"Description": "工银e卡圣子模式，失效请及时反馈",

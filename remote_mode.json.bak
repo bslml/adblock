@@ -1,7 +1,7 @@
 [
     {
-        "Name": "公告：新版发布", 
-        "Description": "新发布动态模式，建议打开httpdns功能，可以达到0跳", 
+        "Name": "公告：全国联通已复活", 
+        "Description": "全国联通已复活，已在多地测试可用", 
         "Hint": "系统公告", 
         "IsDescypted": true, 
         "IsVipOnly": true, 

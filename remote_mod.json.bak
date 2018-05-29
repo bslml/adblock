@@ -1,7 +1,17 @@
 [
     {
         "Name": "公告：谨防骗子", 
-        "Description": "近期某骗子以胡乱写的模式冒充变色龙模式骗取钱财，大家谨防上当受骗，骗子QQ：394786777", 
+        "Description": "近期某骗子以胡乱写的模式冒充变色龙模式骗取钱财，骗子QQ：394786777，大家谨防上当受骗", 
+        "Hint": "系统公告", 
+        "IsDescypted": true, 
+        "IsVipOnly": true, 
+        "InnerName": "origin.db", 
+        "Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=", 
+        "FileURL": "https://iphunter.coding.me/20171206/15125708.db"
+    }, 
+    {
+        "Name": "公告：谨防骗子", 
+        "Description": "近期某骗子以胡乱写的模式冒充变色龙模式骗取钱财，骗子QQ：394786777，大家谨防上当受骗", 
         "Hint": "系统公告", 
         "IsDescypted": true, 
         "IsVipOnly": true, 

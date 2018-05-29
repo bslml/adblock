@@ -1,5 +1,15 @@
 [
     {
+        "Name": "公告：谨防骗子", 
+        "Description": "近期某骗子以胡乱写的模式冒充变色龙模式骗取钱财，大家谨防上当受骗，骗子QQ：394786777", 
+        "Hint": "系统公告", 
+        "IsDescypted": true, 
+        "IsVipOnly": true, 
+        "InnerName": "origin.db", 
+        "Key": "XRBgW7XFx3HF/MmW2p4QqBhwANSooIm7Uz3TCVzZV8WTUwiQVbAsXYwpVam843wgz9JtV0ePxWT/ROTNsr7bFe241t43ILAv3RAsG4Noxu3XEdu+bO7/drAFGHIWXXrVTnNw2buG9R+TT21A/A5WFDt+p5iQeXdLvI4lQBxv59A=", 
+        "FileURL": "https://iphunter.coding.me/20171206/15125708.db"
+    }, 
+    {
         "Name": "公告：全国联通已复活", 
         "Description": "全国联通已复活，已在多地测试可用", 
         "Hint": "系统公告", 
@@ -11,7 +21,7 @@
     }, 
     {
         "Name": "模式说明：模式已更新", 
-        "Description": "模式已更新，基本覆盖全国各个省份联通电信，未覆盖到的地方可邮件回复", 
+        "Description": "变色龙与多位模式作者合作，依需求推出广东联通专项工程，欢迎测试使用！", 
         "Hint": "模式说明", 
         "IsDescypted": true, 
         "IsVipOnly": true, 

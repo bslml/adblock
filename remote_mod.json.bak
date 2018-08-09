@@ -1,7 +1,7 @@
 [
     {
-        "Name": "模式已更新: 2018.07.10", 
-        "Description": "陕西 四川 广东 湖北 河北 云南 海南等可用, 强烈推荐！！", 
+        "Name": "模式已更新: 2018.08.10", 
+        "Description": "新增全国模式！！！更新了多个大王卡节点，大王卡用户可选择最快的模式即可。", 
         "Hint": "会员专享", 
         "IsDescypted": true, 
         "IsVipOnly": false, 
@@ -9,6 +9,17 @@
         "Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=", 
         "FileURL": "https://bslapp.me"
     }, 
+
+    {
+	"Name": "全国联通Wo商店0809",
+	"Description": "wo商店伪装，全国联通可用",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533808782226.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533808782226.db"
+},
     {
         "Name": "全国联通Wo音乐版", 
         "Description": "陕西 四川 广东 湖北 河北 云南 海南等可用, 强烈推荐！！", 
@@ -48,37 +59,81 @@
         "InnerName": "1524240368385.db", 
         "Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=", 
         "FileURL": "https://iphunter.coding.me/20180421/1524240368385.db"
-    }, 
+    }
+	
+	
+	
 	{
-	"Name": "大王卡华东",
-	"Description": "NET接入点，全新动态模式全国0跳，免开日租宝！",
-	"Hint": "王卡动态",
+	"Name": "大王卡华东1",
+	"Description": "大王卡全国通用，用户选最快的节点即可",
+	"Hint": "会员专享",
 	"IsDescypted": true,
 	"IsVipOnly": true,
-	"InnerName": "1526439112165.db",
+	"InnerName": "1533806488723.db",
 	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-	"FileURL": "https://iphunter.coding.me/20180516/1526439112165.db"
+	"FileURL": "https://iphunter.coding.me/20180809/1533806488723.db"
 },
 {
-	"Name": "大王卡华北",
-	"Description": "NET接入点，全新动态模式全国0跳，免开日租宝！",
-	"Hint": "王卡动态",
+	"Name": "大王卡华东2",
+	"Description": "大王卡全国通用，用户选最快的节点即可",
+	"Hint": "会员专享",
 	"IsDescypted": true,
 	"IsVipOnly": true,
-	"InnerName": "1526437786604.db",
+	"InnerName": "1533806490052.db",
 	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-	"FileURL": "https://iphunter.coding.me/20180516/1526437786604.db"
+	"FileURL": "https://iphunter.coding.me/20180809/1533806490052.db"
 },
 {
-	"Name": "大王卡华南",
-	"Description": "NET接入点，全新动态模式全国0跳，免开日租宝！",
-	"Hint": "王卡动态",
+	"Name": "大王卡华北1",
+	"Description": "大王卡全国通用，用户选最快的节点即可",
+	"Hint": "会员专享",
 	"IsDescypted": true,
 	"IsVipOnly": true,
-	"InnerName": "1526437787742.db",
+	"InnerName": "1533806491502.db",
 	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-	"FileURL": "https://iphunter.coding.me/20180516/1526437787742.db"
-}, 
+	"FileURL": "https://iphunter.coding.me/20180809/1533806491502.db"
+},
+{
+	"Name": "大王卡华北2",
+	"Description": "大王卡全国通用，用户选最快的节点即可",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533806492817.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533806492817.db"
+},
+{
+	"Name": "大王卡华北3",
+	"Description": "大王卡全国通用，用户选最快的节点即可",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533806493923.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533806493923.db"
+},
+{
+	"Name": "大王卡华南1",
+	"Description": "大王卡全国通用，用户选最快的节点即可",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533806494976.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533806494976.db"
+},
+{
+	"Name": "大王卡华南2",
+	"Description": "大王卡全国通用，用户选最快的节点即可",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533806496297.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533806496297.db"
+},
+
 	{
 		"Name": "联通阿里宝卡专用模式",
 		"Description": "阿里宝卡0跳专用模式",
@@ -89,7 +144,8 @@
 		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
 		"FileURL": "https://iphunter.coding.me/20180504/1525424745002.db"
 	},
-    {
+	
+	    {
         "Name": "全国电信", 
         "Description": "爱看混淆，多省可免", 
         "Hint": "会员专享", 
@@ -99,7 +155,113 @@
         "Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=", 
         "FileURL": "https://iphunter.coding.me/20180416/1523871228506.db"
     }, 
+	
+	{
+	"Name": "湖北电信20180809",
+	"Description": "Youku混淆，湖北电信鱼卡/酷视卡可用",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533807780888.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533807780888.db"
+},
+{
+	"Name": "四川电信20180809",
+	"Description": "Youku混淆，四川电信鱼卡/酷视卡可用",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533807782197.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533807782197.db"
+},
+{
+	"Name": "江苏电信20180809",
+	"Description": "江苏电信专用",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533807783473.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533807783473.db"
+},
+{
+	"Name": "江西电信20180809",
+	"Description": "爱看混淆，江西电信可用",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1533807785846.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180809/1533807785846.db"
+},
+	
+	
+	
+	
+	
 
+{
+	"Name": "江西电信0710_1",
+	"Description": "爱看伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1531185792266.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180710/1531185792266.db"
+},
+{
+	"Name": "广西电信0710",
+	"Description": "爱看伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1531185793441.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180710/1531185793441.db"
+},
+{
+	"Name": "湖南电信鱼卡0710",
+	"Description": "Youku伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1531185794839.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180710/1531185794839.db"
+},
+{
+	"Name": "江西电信0710_2",
+	"Description": "天翼视讯伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1531185796129.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180710/1531185796129.db"
+},
+{
+	"Name": "重庆电信鱼卡0710",
+	"Description": "youku伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1531185797182.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180710/1531185797182.db"
+},
+{
+	"Name": "广东电信0710",
+	"Description": "天翼视讯伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1531185798669.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180710/1531185798669.db"
+},
 {
 	"Name": "天津联通0710_1",
 	"Description": "wo阅读模式",

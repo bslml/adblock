@@ -1,5 +1,5 @@
 [{
-		"Name": "模式已更新: 2018.08.10",
+		"Name": "模式已更新: 2018.09.02",
 		"Description": "新增全国模式！！！更新了多个大王卡节点，大王卡用户可选择最快的模式即可。",
 		"Hint": "会员专享",
 		"IsDescypted": true,
@@ -8,57 +8,16 @@
 		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
 		"FileURL": "https://bslapp.me"
 	},
-
 	{
-		"Name": "全国联通Wo商店0809",
-		"Description": "wo商店伪装，全国联通可用",
+		"Name": "全国联通Wo游戏0902",
+		"Description": "多省测试可用，50G跳2M",
 		"Hint": "会员专享",
 		"IsDescypted": true,
 		"IsVipOnly": true,
-		"InnerName": "1533808782226.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
-		"FileURL": "https://iphunter.coding.me/20180809/1533808782226.db"
-	},
-	{
-		"Name": "全国联通Wo音乐版",
-		"Description": "陕西 四川 广东 湖北 河北 云南 海南等可用, 强烈推荐！！",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"IsVipOnly": true,
-		"InnerName": "1524238861376.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
-		"FileURL": "https://iphunter.coding.me/20180420/1524238861376.db"
-	},
-	{
-		"Name": "31288多省联通",
-		"Description": "NET接入点，河南、云南、重庆、北京可用",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"IsVipOnly": true,
-		"InnerName": "1516424256144.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
-		"FileURL": "https://iphunter.coding.me/20180416/1523871650043.db"
-	},
-	{
-		"Name": "31288改进型，全国联通",
-		"Description": "31288改进型",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"IsVipOnly": true,
-		"InnerName": "1517154299289.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
-		"FileURL": "https://iphunter.coding.me/20180128/1517154299289.db"
-	},
-	{
-		"Name": "全国移动",
-		"Description": "需开通咪咕影院包才能使用，否则不免",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"IsVipOnly": true,
-		"InnerName": "1524240368385.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
-		"FileURL": "https://iphunter.coding.me/20180421/1524240368385.db"
-	},
+		"InnerName": "1535858656206.db",
+		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+		"FileURL": "https://iphunter.coding.me/20180902/1535858656206.db"
+	}，
 	{
 		"Name": "大王卡华东1",
 		"Description": "大王卡全国通用，用户选最快的节点即可",

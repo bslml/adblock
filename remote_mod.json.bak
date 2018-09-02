@@ -19,14 +19,14 @@
 		"FileURL": "https://iphunter.coding.me/20180902/1535858656206.db"
 	},
 	{
-	"Name": "全国移动咪咕0902",
-	"Description": "需开通咪咕视频定向包，Net接入点，1G跳10M",
-	"Hint": "会员专享",
-	"IsDescypted": true,
-	"IsVipOnly": true,
-	"InnerName": "1535859861100.db",
-	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-	"FileURL": "https://iphunter.coding.me/20180902/1535859861100.db"
+		"Name": "全国移动咪咕0902",
+		"Description": "需开通咪咕视频定向包，Net接入点，1G跳10M",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"IsVipOnly": true,
+		"InnerName": "1535859861100.db",
+		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+		"FileURL": "https://iphunter.coding.me/20180902/1535859861100.db"
 	},
 	{
 		"Name": "大王卡华东1",
@@ -109,6 +109,46 @@
 		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
 		"FileURL": "https://iphunter.coding.me/20180504/1525424745002.db"
 	},
+	{
+	"Name": "广东电信0902",
+	"Description": "wap接入，爱看天翼视讯包",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535860015136.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535860015136.db"
+},
+{
+	"Name": "江西电信0902",
+	"Description": "wap接入，爱看天翼视讯包",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535860016402.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535860016402.db"
+},
+{
+	"Name": "安徽电信鱼卡0902",
+	"Description": "cibntv包",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535860017835.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535860017835.db"
+},
+{
+	"Name": "北京电信0902",
+	"Description": "wap接入，爱看天翼视讯包",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535860019286.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535860019286.db"
+},
 {
 	"Name": "山东联通0809",
 	"Description": "wap介入，wo阅读伪装",

@@ -9,7 +9,7 @@
 		"FileURL": "https://bslapp.me"
 	},
 	{
-		"Name": "全国联通Wo游戏0902",
+		"Name": "全国联通Wo游戏0902_1",
 		"Description": "多省测试可用，50G跳2M",
 		"Hint": "会员专享",
 		"IsDescypted": true,
@@ -17,6 +17,16 @@
 		"InnerName": "1535858656206.db",
 		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
 		"FileURL": "https://iphunter.coding.me/20180902/1535858656206.db"
+	},
+	{
+		"Name": "全国联通Wo游戏0902_2",
+		"Description": "同上, 2号服务器",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"IsVipOnly": true,
+		"InnerName": "1535874949228.db",
+		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+		"FileURL": "https://iphunter.coding.me/20180902/1535874949228.db"
 	},
 	{
 		"Name": "全国移动咪咕0902",
@@ -98,7 +108,6 @@
 		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
 		"FileURL": "https://iphunter.coding.me/20180809/1533806496297.db"
 	},
-
 	{
 		"Name": "联通阿里宝卡专用模式",
 		"Description": "阿里宝卡0跳专用模式",
@@ -109,9 +118,172 @@
 		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
 		"FileURL": "https://iphunter.coding.me/20180504/1525424745002.db"
 	},
+{
+	"Name": "四川联通0902_1",
+	"Description": "[成都]wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874942940.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874942940.db"
+},
+{
+	"Name": "四川联通0902_2",
+	"Description": "[绵阳]wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874947939.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874947939.db"
+},
+{
+	"Name": "重庆联通0902_1",
+	"Description": "wap接入，wo.cn伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874952991.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874952991.db"
+},
+{
+	"Name": "重庆联通0902_2",
+	"Description": "wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874960298.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874960298.db"
+},
+{
+	"Name": "重庆联通0902_3",
+	"Description": "wap接入，wo音乐伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874961621.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874961621.db"
+},
+{
+	"Name": "河南联通0902",
+	"Description": "wap接入，wo音乐伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874944315.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874944315.db"
+},
+{
+	"Name": "浙江联通0902",
+	"Description": "wap接入，wo音乐伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874945562.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874945562.db"
+},
+{
+	"Name": "湖南联通0902",
+	"Description": "wap接入，wo音乐伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874946674.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874946674.db"
+},
+
+{
+	"Name": "江苏联通0902",
+	"Description": "[南京]wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874950427.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874950427.db"
+},
+{
+	"Name": "浙江联通0902_1",
+	"Description": "[金华]wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874951755.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874951755.db"
+},
+{
+	"Name": "浙江联通0902_2",
+	"Description": "[台州]wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874956873.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874956873.db"
+},
+{
+	"Name": "山东工行E卡0902",
+	"Description": "net接入，E卡专用",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874954111.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874954111.db"
+},
+{
+	"Name": "山东联通0902",
+	"Description": "wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874955370.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874955370.db"
+},
+
+{
+	"Name": "北京联通0902",
+	"Description": "wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874957973.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874957973.db"
+},
+{
+	"Name": "广东联通0902",
+	"Description": "[深圳]wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874959283.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874959283.db"
+},
+{
+	"Name": "黑龙江e卡0902",
+	"Description": "黑龙江圣子E卡",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1535874962681.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180902/1535874962681.db"
+},
+
 	{
 	"Name": "广东电信0902",
-	"Description": "wap接入，爱看天翼视讯包",
+	"Description": "wap接入，爱看天翼视讯包定向",
 	"Hint": "会员专享",
 	"IsDescypted": true,
 	"IsVipOnly": true,
@@ -121,7 +293,7 @@
 },
 {
 	"Name": "江西电信0902",
-	"Description": "wap接入，爱看天翼视讯包",
+	"Description": "wap接入，爱看天翼视讯包定向",
 	"Hint": "会员专享",
 	"IsDescypted": true,
 	"IsVipOnly": true,
@@ -141,7 +313,7 @@
 },
 {
 	"Name": "北京电信0902",
-	"Description": "wap接入，爱看天翼视讯包",
+	"Description": "wap接入，爱看天翼视讯包定向",
 	"Hint": "会员专享",
 	"IsDescypted": true,
 	"IsVipOnly": true,

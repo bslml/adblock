@@ -1,33 +1,4 @@
-[{
-		"Name": "模式已更新: 2018.09.02",
-		"Description": "新增联通、移动全国模式！！！更新了多个大王卡节点，大王卡用户可选择最快的模式即可。",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"IsVipOnly": false,
-		"InnerName": "2524238861376.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
-		"FileURL": "https://bslapp.me"
-	},
-	{
-		"Name": "全国联通Wo游戏0906_1",
-		"Description": "多省测试可用，50G跳2M，如果失效请及时反馈实时更新。",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"IsVipOnly": true,
-		"InnerName": "1536224541542.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-		"FileURL": "https://iphunter.coding.me/20180906/1536224541542.db"
-	},
-	{
-		"Name": "全国联通Wo游戏0906_2",
-		"Description": "同上, 2号服务器，如失效请及时反馈！",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"IsVipOnly": true,
-		"InnerName": "1536224542980.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
-		"FileURL": "https://iphunter.coding.me/20180906/1536224542980.db"
-	},
+[
 	{
 		"Name": "全国移动咪咕0902",
 		"Description": "需开通咪咕视频定向包，Net接入点，1G跳10M",
@@ -69,16 +40,6 @@
 		"FileURL": "https://iphunter.coding.me/20180809/1533806491502.db"
 	},
 	{
-		"Name": "大王卡华北2",
-		"Description": "大王卡全国通用，用户选最快的节点即可",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"IsVipOnly": true,
-		"InnerName": "1533806492817.db",
-		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
-		"FileURL": "https://iphunter.coding.me/20180809/1533806492817.db"
-	},
-	{
 		"Name": "大王卡华北3",
 		"Description": "大王卡全国通用，用户选最快的节点即可",
 		"Hint": "会员专享",
@@ -118,6 +79,276 @@
 		"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",
 		"FileURL": "https://iphunter.coding.me/20180504/1525424745002.db"
 	},
+{
+	"Name": "江苏联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538284471253.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538284471253.db"
+},
+{
+	"Name": "浙江联通0930",
+	"Description": "[杭州]wo阅读伪装,wap接入",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538284472446.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538284472446.db"
+},
+{
+	"Name": "福建联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538284473627.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538284473627.db"
+},
+{
+	"Name": "重庆联通0930_1",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538284475020.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538284475020.db"
+},
+{
+	"Name": "重庆联通0930_2",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538284476507.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538284476507.db"
+},
+{
+	"Name": "湖北联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538284477570.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538284477570.db"
+},
+{
+	"Name": "湖南联通0930_1",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538284478694.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538284478694.db"
+},
+{
+	"Name": "湖南联通0930_2",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278736261.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278736261.db"
+},
+{
+	"Name": "山西联通0930",
+	"Description": "圣子10155",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278737469.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278737469.db"
+},
+{
+	"Name": "四川联通0930_1",
+	"Description": "wo音乐伪装，wap接入",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278739908.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278739908.db"
+},
+{
+	"Name": "四川联通0930_1",
+	"Description": "wo音乐伪装，wap接入",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278740993.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278740993.db"
+},
+{
+	"Name": "河南联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278742276.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278742276.db"
+},
+{
+	"Name": "山东联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278743432.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278743432.db"
+},
+{
+	"Name": "山东联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278744897.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278744897.db"
+},
+{
+	"Name": "江苏联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278745976.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278745976.db"
+},
+{
+	"Name": "河南联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278747270.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278747270.db"
+},
+{
+	"Name": "河南联通0930",
+	"Description": "wo阅读伪装，wap接入",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278748693.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278748693.db"
+},
+{
+	"Name": "山东联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278750155.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278750155.db"
+},
+{
+	"Name": "湖南联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278751176.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278751176.db"
+},
+{
+	"Name": "陕西联通0930_1",
+	"Description": "wap接入，wo商店伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278752678.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278752678.db"
+},
+{
+	"Name": "陕西联通0930_2",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278754112.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278754112.db"
+},
+{
+	"Name": "云南联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278755430.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278755430.db"
+},
+{
+	"Name": "安徽联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278756623.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278756623.db"
+},
+{
+	"Name": "四川联通0930",
+	"Description": "wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278758074.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278758074.db"
+},
+{
+	"Name": "河南联通0930",
+	"Description": "wap接入，wo音乐伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278759200.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278759200.db"
+},
+{
+	"Name": "江苏联通0930",
+	"Description": "wap接入，wo阅读伪装",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278760532.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278760532.db"
+},
+{
+	"Name": "山东联通0930",
+	"Description": "圣子模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1538278761906.db",
+	"Key": "Jey6B8mu31UezBTj0n8yALG5TgX1vrjJVoSk5Xn8LseVfsii1EWp86x5L7rvsU8f2iCHuqCDlO3ygJuZ+s2jlk7c/FJ36QXedxMr0KEN1UK4imyuisKFwJ92S1GcaHH6k86PilElRJ7ue9JKocEit6tEMqwl+9aGgf0I1eM1uB8=",	
+	"FileURL": "https://iphunter.coding.me/20180930/1538278761906.db"
+},
 {
 	"Name": "四川联通0902_1",
 	"Description": "[成都]wap接入，wo阅读伪装",

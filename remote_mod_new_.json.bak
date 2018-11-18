@@ -740,19 +740,6 @@
 	{
 		"descypted": true,
 		"vipOnly": true,
-		"Name": "重庆大王卡0421",
-		"Description": "大王卡伪装",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"PublishTime": "2018-04-21",
-		"IsVipOnly": true,
-		"FileURL": "https://v22.bslapp.me/api/mode/20180421/1524302103863.db",
-		"InnerName": "1524302103863.db",
-		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-	},
-	{
-		"descypted": true,
-		"vipOnly": true,
 		"Name": "四川联通0421_2",
 		"Description": "wo音乐伪装",
 		"Hint": "会员专享",

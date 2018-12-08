@@ -1,4 +1,19 @@
-[{
+[	
+{
+		"descypted": true,
+		"vipOnly": true,
+		"Name": "系统公告：",
+		"Description": "凡支付开通VIP送5T OneDrive网盘1个，请发送附带会员信息的邮件索取",
+		"Hint": "会员福利",
+		"IsDescypted": false,
+		"PublishTime": "2018-12-05",
+		"IsVipOnly": false,
+		"FileURL": "https://tp.wjx.top/jq/30892436.aspx",
+		"InnerName": "15358598611a.txt",
+		"Key": "BhV2WiNxFkomprRA+bd2/nDS0jFA/ZeLP4f2tauHnc0aYtaOgF/E4lPQISEAGHTEK0PKZEOoeHRIcpsq9jvzpN7qpRggABYvClEhyu1/NDPpP2hENQTbPdqDVJnVtLvFma7JhQf/raYrkTWotdhV6Z0RZVl/HIrTn8NykG0+VNk="
+	},
+
+{
 		"descypted": true,
 		"vipOnly": true,
 		"Name": "系统公告：",
@@ -15,10 +30,10 @@
 		"descypted": true,
 		"vipOnly": true,
 		"Name": "系统公告：",
-		"Description": "2018.11.20更新圣子IP,需重新安装使用",
+		"Description": "2018.11.29更新圣子IP,需重新安装使用",
 		"Hint": "模式补丁",
 		"IsDescypted": false,
-		"PublishTime": "2018-11-20",
+		"PublishTime": "2018-11-29",
 		"IsVipOnly": false,
 		"FileURL": "https://tp.wjx.top/jq/30892436.aspx",
 		"InnerName": "15358598611a.txt",

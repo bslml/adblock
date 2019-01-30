@@ -29,9 +29,9 @@
 	{
 		"descypted": true,
 		"vipOnly": true,
-		"Name": "系统公告：",
-		"Description": "2018.11.29更新圣子IP,需重新安装使用",
-		"Hint": "模式补丁",
+		"Name": "系统公告：安装模式闪退请退出重新登陆即可！",
+		"Description": "",
+		"Hint": "温馨提示",
 		"IsDescypted": false,
 		"PublishTime": "2018-11-29",
 		"IsVipOnly": false,
@@ -39,6 +39,120 @@
 		"InnerName": "15358598611a.txt",
 		"Key": "BhV2WiNxFkomprRA+bd2/nDS0jFA/ZeLP4f2tauHnc0aYtaOgF/E4lPQISEAGHTEK0PKZEOoeHRIcpsq9jvzpN7qpRggABYvClEhyu1/NDPpP2hENQTbPdqDVJnVtLvFma7JhQf/raYrkTWotdhV6Z0RZVl/HIrTn8NykG0+VNk="
 	},
+	
+
+{
+	"Name": "广东联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[wo阅读][深圳]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440819783.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440819783.db"
+},
+{
+	"Name": "河南联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[wo音乐][周口]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440820811.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440820811.db"
+},
+{
+	"Name": "河南联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[wo音乐][洛阳]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440823435.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440823435.db"
+},
+{
+	"Name": "湖北联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[wo音乐][武汉]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440824909.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440824909.db"
+},
+{
+	"Name": "湖北联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[宜昌][woapp伪装]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440817197.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440817197.db"
+},
+{
+	"Name": "四川联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[资阳]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440818333.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440818333.db"
+},
+	{
+	"Name": "四川联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[成都][169ol伪装]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440815711.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440815711.db"
+},
+{
+	"Name": "四川联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[wo音乐][成都]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440822088.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440822088.db"
+},
+
+{
+	"Name": "四川联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[wo音乐][绵阳]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440826177.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440826177.db"
+},
+{
+	"Name": "四川联通",
+	"PublishTime": "2019-01-02",
+	"Description": "[wo音乐][达州]wap模式",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1546440827563.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190102/1546440827563.db"
+},
+
 	{
 		"Name": "全国联通圣子wo商店",
 		"Description": "全国圣子wo商店，低跳！",

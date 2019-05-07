@@ -124,12 +124,12 @@
 		"vipOnly": false,
 		"Name": "大王卡免费版",
 		"Description": "需要自己手动打开QQ浏览器才能使用",
-		"Hint": "会员专享",
+		"Hint": "免费模式",
 		"IsDescypted": true,
 		"PublishTime": "2019-05-07",
 		"IsVipOnly": true,
-		"FileURL": "https://v22.bslapp.me/api/mode/20180809/dawangka111.conf",
-		"InnerName": "dawangka111.db",
+		"FileURL": "https://v22.bslapp.me/api/mode/20180809/dawangka111.txt",
+		"InnerName": "dawangka111.txt",
 		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
 	},
 

@@ -42,6 +42,19 @@
 	
 
 {
+	"PublishTime": "2019-01-30",
+	"Name": "阿里宝卡、鱼卡、优酷卡等阿里系专用",
+	"Description": "",
+	"Hint": "会员专享",
+	"IsDescypted": true,
+	"IsVipOnly": true,
+	"InnerName": "1548859269555.db",
+	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
+	"FileURL": "https://v22.bslapp.me/api/mode/20190130/1548859269555.db"
+},
+	
+
+{
 	"Name": "广东联通",
 	"PublishTime": "2019-01-02",
 	"Description": "[wo阅读][深圳]wap模式",

@@ -13,19 +13,6 @@
 		"Key": "BhV2WiNxFkomprRA+bd2/nDS0jFA/ZeLP4f2tauHnc0aYtaOgF/E4lPQISEAGHTEK0PKZEOoeHRIcpsq9jvzpN7qpRggABYvClEhyu1/NDPpP2hENQTbPdqDVJnVtLvFma7JhQf/raYrkTWotdhV6Z0RZVl/HIrTn8NykG0+VNk="
 	},
 
-{
-		"descypted": true,
-		"vipOnly": true,
-		"Name": "系统公告：",
-		"Description": "调查问卷来啦，选出你最想要的地区的模式，优先更新哦~！",
-		"Hint": "调查问卷",
-		"IsDescypted": false,
-		"PublishTime": "2018-11-09",
-		"IsVipOnly": false,
-		"FileURL": "https://tp.wjx.top/jq/30892436.aspx",
-		"InnerName": "15358598611a.txt",
-		"Key": "BhV2WiNxFkomprRA+bd2/nDS0jFA/ZeLP4f2tauHnc0aYtaOgF/E4lPQISEAGHTEK0PKZEOoeHRIcpsq9jvzpN7qpRggABYvClEhyu1/NDPpP2hENQTbPdqDVJnVtLvFma7JhQf/raYrkTWotdhV6Z0RZVl/HIrTn8NykG0+VNk="
-	},
 	{
 		"descypted": true,
 		"vipOnly": true,
@@ -42,8 +29,8 @@
 	
 
 {
-	"PublishTime": "2019-01-30",
-	"Name": "阿里宝卡、鱼卡、优酷卡等阿里系专用",
+	"PublishTime": "2019-05-07",
+	"Name": "阿里宝卡、鱼卡、优酷卡等",
 	"Description": "",
 	"Hint": "会员专享",
 	"IsDescypted": true,
@@ -52,7 +39,99 @@
 	"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",	
 	"FileURL": "https://v22.bslapp.me/api/mode/20190130/1548859269555.db"
 },
+
+	{
+		"descypted": true,
+		"vipOnly": true,
+		"Name": "大王卡华东1",
+		"Description": "大王卡全国通用，用户选最快的节点即可",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"PublishTime": "2019-05-07",
+		"IsVipOnly": true,
+		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806488723.db",
+		"InnerName": "1533806488723.db",
+		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
+	},
+	{
+		"descypted": true,
+		"vipOnly": true,
+		"Name": "大王卡华东2",
+		"Description": "大王卡全国通用，用户选最快的节点即可",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"PublishTime": "2019-05-07",
+		"IsVipOnly": true,
+		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806490052.db",
+		"InnerName": "1533806490052.db",
+		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
+	},
+	{
+		"descypted": true,
+		"vipOnly": true,
+		"Name": "大王卡华北1",
+		"Description": "大王卡全国通用，用户选最快的节点即可",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"PublishTime": "2019-05-07",
+		"IsVipOnly": true,
+		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806491502.db",
+		"InnerName": "1533806491502.db",
+		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
+	},
+	{
+		"descypted": true,
+		"vipOnly": true,
+		"Name": "大王卡华北2",
+		"Description": "大王卡全国通用，用户选最快的节点即可",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"PublishTime": "2019-05-07",
+		"IsVipOnly": true,
+		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806493923.db",
+		"InnerName": "1533806493923.db",
+		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
+	},
+	{
+		"descypted": true,
+		"vipOnly": true,
+		"Name": "大王卡华南1",
+		"Description": "大王卡全国通用，用户选最快的节点即可",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"PublishTime": "2019-05-07",
+		"IsVipOnly": true,
+		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806494976.db",
+		"InnerName": "1533806494976.db",
+		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
+	},
+	{
+		"descypted": true,
+		"vipOnly": true,
+		"Name": "大王卡华南2",
+		"Description": "大王卡全国通用，用户选最快的节点即可",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"PublishTime": "2019-05-07",
+		"IsVipOnly": true,
+		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806496297.db",
+		"InnerName": "1533806496297.db",
+		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
+	},
 	
+	{
+		"descypted": false,
+		"vipOnly": false,
+		"Name": "大王卡免费版",
+		"Description": "需要自己手动打开QQ浏览器才能使用",
+		"Hint": "会员专享",
+		"IsDescypted": true,
+		"PublishTime": "2019-05-07",
+		"IsVipOnly": true,
+		"FileURL": "https://v22.bslapp.me/api/mode/dawangka111.conf",
+		"InnerName": "dawangka111.conf",
+		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
+	},
 
 {
 	"Name": "广东联通",
@@ -606,84 +685,7 @@
 		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU=",
 		"FileURL": "https://v22.bslapp.me/api/mode/20181116/1542372595274.db"
 	},
-	{
-		"descypted": true,
-		"vipOnly": true,
-		"Name": "大王卡华东1",
-		"Description": "大王卡全国通用，用户选最快的节点即可",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"PublishTime": "2018-08-09",
-		"IsVipOnly": true,
-		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806488723.db",
-		"InnerName": "1533806488723.db",
-		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-	},
-	{
-		"descypted": true,
-		"vipOnly": true,
-		"Name": "大王卡华东2",
-		"Description": "大王卡全国通用，用户选最快的节点即可",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"PublishTime": "2018-08-09",
-		"IsVipOnly": true,
-		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806490052.db",
-		"InnerName": "1533806490052.db",
-		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-	},
-	{
-		"descypted": true,
-		"vipOnly": true,
-		"Name": "大王卡华北1",
-		"Description": "大王卡全国通用，用户选最快的节点即可",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"PublishTime": "2018-08-09",
-		"IsVipOnly": true,
-		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806491502.db",
-		"InnerName": "1533806491502.db",
-		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-	},
-	{
-		"descypted": true,
-		"vipOnly": true,
-		"Name": "大王卡华北3",
-		"Description": "大王卡全国通用，用户选最快的节点即可",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"PublishTime": "2018-08-09",
-		"IsVipOnly": true,
-		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806493923.db",
-		"InnerName": "1533806493923.db",
-		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-	},
-	{
-		"descypted": true,
-		"vipOnly": true,
-		"Name": "大王卡华南1",
-		"Description": "大王卡全国通用，用户选最快的节点即可",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"PublishTime": "2018-08-09",
-		"IsVipOnly": true,
-		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806494976.db",
-		"InnerName": "1533806494976.db",
-		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-	},
-	{
-		"descypted": true,
-		"vipOnly": true,
-		"Name": "大王卡华南2",
-		"Description": "大王卡全国通用，用户选最快的节点即可",
-		"Hint": "会员专享",
-		"IsDescypted": true,
-		"PublishTime": "2018-08-09",
-		"IsVipOnly": true,
-		"FileURL": "https://v22.bslapp.me/api/mode/20180809/1533806496297.db",
-		"InnerName": "1533806496297.db",
-		"Key": "gUDokcbxzvRe8OK+ev3WM2pFS+Q7M6ZEb+qEuEnfCOlz+NXG4NXeSUyrTnTY8gUXrprdV2NxZEZHGl1qG3iHjdLCBrISX10JpoEaeTgOztmJ+/oWn05a4ybpXMSnFhKy/oqkQm0bLu9id5XW91pCzOWomAn3m3hjwbVFn1FajOU="
-	},
+
 	{
 		"descypted": true,
 		"vipOnly": true,

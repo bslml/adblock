@@ -1,1 +1,1 @@
-{"NewVersion":"1.5.1","HistoryVersion":"1.5.0.1#1.5.0.2#1.5.1","VersionCode":39,"ApkUrl":"https://update-1252142997.file.myqcloud.com/app151.apk","UpdateLog":"修复某米手机添加模式闪退的问题, 新增从剪切板添加模式的功能，支持模式改名","TargetSize":"6.89M","IsForce":true}
+{"NewVersion":"1.5.2","HistoryVersion":"1.5.0.1#1.5.0.2#1.5.1#1.5.2","VersionCode":40,"ApkUrl":"https://update-1252142997.file.myqcloud.com/app152.apk","UpdateLog":"1.优化大王卡动态模式，解决了新获取Token过期的问题。2.如需继续使用请在6月4日前更新，届时服务器证书更换旧版本会停止服务。","TargetSize":"6.59M","IsForce":true}
